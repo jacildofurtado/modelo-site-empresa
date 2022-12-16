@@ -123,7 +123,7 @@ nav.menu-desktop a:hover{
 section.main-bg{
     position: relative;
     width: 100%;
-    height: 450px;
+    height: 20%px;
     padding: 140px 0 200px 0;
     background-image: url(../images/banner.jpg);
     background-repeat: no-repeat;
